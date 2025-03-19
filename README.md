@@ -26,7 +26,7 @@ Allow the app to access your camera and storage when prompted.
    
 You can toggle plane detection by tapping the Plane Button (top-right corner).
 
-![alt text](http://url/to/img.png)
+![alt text]([://urhttpl/to/img.png](https://raw.githubusercontent.com/sehajbajaj2004/Sunflower-AR/refs/heads/React/ss.jpg))
 
 # 📄 Requirements:
 Android device with ARCore support
